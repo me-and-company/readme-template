@@ -26,7 +26,7 @@ $ Final step
 
 ## Usage
 
-A few examples of useful commands and/or tasks. Explain important things to keep in mind when working on this project.
+A few examples of useful commands and/or tasks.
 
 ```
 $ First example
@@ -36,7 +36,7 @@ $ And keep this in mind
 
 ## Deployment
 
-Add additional notes on how to deploy this on a live or release system. Try to explain the most important branches, what pipelines they trigger and how to update the database (if anything special).
+Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
 
 ### Server
 
@@ -50,19 +50,6 @@ Add additional notes on how to deploy this on a live or release system. Try to e
 * Feature:
 * Bugfix:
 * etc...
-
-## Versioning
-
-Describe what versioning technique is being used (e.g. [Semantic Versioning](http://semver.org/)) and how to differentiate a major or minor release. It might be useful to display major changes within a release history:
-
-* 2.0.0:
-  * Work in progress
-  * Redesign went live
-* 1.3.0:
-  * Implementation of feature X
-  * Feature Y
-* 0.6.0:
-  * First website launch
 
 ## Additional Documentation and Acknowledgments
 
